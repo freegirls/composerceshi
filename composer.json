@@ -1,0 +1,16 @@
+{
+    "name": "tina/ceshi",
+    "description": "ceshi",
+    "authors": [
+        {
+            "name": "tina",
+            "email": "www_huangjinyan@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tina\\ceshi\\": "src"
+        }
+    }
+}
